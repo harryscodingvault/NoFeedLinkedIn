@@ -1,0 +1,4 @@
+li.global-nav__primary-item:nth-child(1),
+.global-nav__branding-logo {
+  display: none;
+}
